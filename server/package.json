@@ -1,0 +1,9 @@
+{
+    "name": "status-checker",
+    "dependencies": {
+        "express": "latest",
+        "socket.io": "latest",
+        "mongojs": "latest",
+        "follow-redirects": "latest"
+    }
+}
